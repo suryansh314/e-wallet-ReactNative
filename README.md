@@ -4,7 +4,7 @@ Users can:
 1. Register/Login
 2. See various recharge options & offers.
 3. Scan QR code
-4. Admin panel access
+4. Access user panel
 
 Live run at: https://snack.expo.dev/@suryansh314159/wallet
 
